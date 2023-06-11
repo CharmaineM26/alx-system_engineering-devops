@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod $(stat -c "%" hello) hello
+chmod --from=guillaume betty hello
