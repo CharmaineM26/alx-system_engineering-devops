@@ -1,0 +1,25 @@
+total 68
+drwxr-xr-x 2 root root 4096 Jun 12 14:33 .
+drwxr-xr-x 6 root root  121 Jun 12 09:49 ..
+-rwxr--r-- 1 root root   31 Jun 12 11:39 0-hello_world
+-rwxr--r-- 1 root root   26 Jun 12 10:03 0-hello_world~
+-rwxr--r-- 1 root root   28 Jun 12 11:16 1-confused_smiley
+-rwxr--r-- 1 root root   28 Jun 12 11:12 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Jun 12 11:56 2-hellofile
+-rwxr--r-- 1 root root   29 Jun 12 11:43 2-hellofile~
+-rwxr--r-- 1 root root   39 Jun 12 12:20 3-twofiles
+-rw-r--r-- 1 root root    0 Jun 12 12:19 3-twofiles~
+-rwxr--r-- 1 root root   29 Jun 12 12:26 4-lastlines
+-rw-r--r-- 1 root root    0 Jun 12 12:24 4-lastlines~
+-rwxr--r-- 1 root root   29 Jun 12 12:32 5-firstlines
+-rw-r--r-- 1 root root    0 Jun 12 12:29 5-firstlines~
+-rwxr--r-- 1 root root   40 Jun 12 13:01 6-third_line
+-rw-r--r-- 1 root root    0 Jun 12 12:39 6-third_line~
+-rwxr--r-- 1 root root   98 Jun 12 14:23 7-file
+-rw-r--r-- 1 root root    0 Jun 12 13:08 7-file~
+-rwxr--r-- 1 root root   37 Jun 12 14:33 8-cwd_state
+-rwxr--r-- 1 root root   37 Jun 12 14:31 8-cwd_state~
+-rw-r--r-- 1 root root   40 Jun 12 14:23 \*\\'"Best
+-rw-r--r-- 1 root root   12 Jun 12 14:28 \\\*\\\'"Best
+-rw-r--r-- 1 root root    0 Jun 12 14:33 ls_cwd_content
+-rw-r--r-- 1 root root   29 Jun 12 09:40 README.md
